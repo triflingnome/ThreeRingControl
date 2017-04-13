@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3E27DCC53D7B2D645E44C7183DD72948CE49E034",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "94192DAED9BD6B8C6EC73EBE39879A688576AED0" : 9223372036854775807,
+    "3E27DCC53D7B2D645E44C7183DD72948CE49E034" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "485E3159-A699-436C-A58A-B9973191721C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "94192DAED9BD6B8C6EC73EBE39879A688576AED0" : "",
+    "3E27DCC53D7B2D645E44C7183DD72948CE49E034" : "ThreeRingControl\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ThreeRingControl",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ThreeRingControl.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/triflingnome\/ThreeRingControl",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3E27DCC53D7B2D645E44C7183DD72948CE49E034"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:triflingnome\/ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "94192DAED9BD6B8C6EC73EBE39879A688576AED0"
+    }
+  ]
+}
